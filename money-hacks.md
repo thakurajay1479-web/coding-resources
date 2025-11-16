@@ -1,3 +1,4 @@
+***mode**link*
 | **Opportunity**                        | **Earnings (₹)**         | **Category**         | **Duration**        | **Mode**      | **Difficulty**  | **Remarks** | **Link** |
 |----------------------------------------|--------------------------|----------------------|---------------------|--------------|----------------|-------------|----------|
 | **Internship (High Paying)**           | ₹40,000                 | Internship          | 3 Months           | Hybrid       | Hard          | Industry-based work | [Link](https://youtu.be/dLQywM7uHUE?si=CKgYS_6oc-V9teDE) |
